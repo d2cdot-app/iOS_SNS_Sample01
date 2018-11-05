@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SNS
 //
-//  Created by 山本 沙季 on 2018/10/29.
+//  Created by 山本 沙季 on 2018/11/05.
 //  Copyright © 2018年 山本 沙季. All rights reserved.
 //
 
